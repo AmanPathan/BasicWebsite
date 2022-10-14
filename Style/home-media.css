@@ -1,0 +1,92 @@
+@media (max-width:1370px){
+    .logo{
+        height: 60px;
+        margin-left:3%;
+        width: 20%;
+        margin-top: 10px;
+    }
+    nav ul{
+        margin-right: 3%;
+    }
+    
+}
+@media (max-width:1205px){
+    .logo{
+        display: none;
+    }
+    .logo2{
+        display: none;
+    }
+    .logo1{
+    display: inline-block;
+    height: 80px;
+    width: 20%;
+    margin-left: 1%;
+    /* margin-top: 10px; */
+}
+nav ul{
+    margin-right:0%;
+}
+}
+@media (max-width:1130px){
+    .logo1{
+        display: none;
+    }
+    .logo2{
+    display: inline-block;
+    height: 80px;
+    width: 10%;
+    margin-left: 1%;
+    /* margin-top: 10px; */
+}
+}
+@media (max-width:1190px){
+    form{
+        max-width: 100%;
+        margin-left: 1%;
+
+    }
+}
+@media (max-width:1000px){
+    nav a{
+        font-size: 18px;
+    }
+    nav li{
+        margin: 0 2px;
+    }
+}
+@media (max-width:970px){
+    .input-labels{
+       font-size: 15px;
+       margin-left: 10px;
+    }
+    .input-label{
+        font-size: 15px;
+        margin-left: 10px;
+ 
+    }
+}
+@media (max-width:950px){
+    /* .input-group{
+        padding: 10px;
+    } */
+    .place{
+        min-height: 30px;
+        padding: 5px;
+        width: 150px;
+    }
+    .input{
+        min-height: 30px;
+        padding: 5px;
+        width: 150px;
+
+    }
+    .input-labels{
+        margin-left: 20px;
+     }
+     .input-label{
+         margin-left: 20px;
+  
+     }
+ 
+}
