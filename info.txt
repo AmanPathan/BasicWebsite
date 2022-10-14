@@ -1,0 +1,2 @@
+This is a basic website made in html and css.
+it is a static website.
